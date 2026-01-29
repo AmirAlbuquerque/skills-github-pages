@@ -1,5 +1,3 @@
-# 👋 Olá, eu sou o Amir
-
 🎓 Engenheiro Mecânico formado pela **UFMG**  
 💻 Desenvolvedor em formação  
 📍 São José dos Campos – SP, Brasil  
